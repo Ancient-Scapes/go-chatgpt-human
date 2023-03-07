@@ -1,7 +1,7 @@
 # ChatGPTで作られたソースコードでChatGPTにリクエストしてChatGPTのレスポンスをもらう全身ChatGPT人間
 
 
-<img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px">
+<img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px">
 
 ## 環境設定
 
@@ -24,5 +24,4 @@ go mod tidy
 ```
 go run main.go 本田圭佑とじゃんけんをして勝つ方法
 ```
-<img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px">
-
+<img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px"><img src="https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png" width="200px">
