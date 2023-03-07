@@ -1,10 +1,10 @@
 # ChatGPTで作られたソースコードでChatGPTにリクエストしてChatGPTのレスポンスをもらう全身ChatGPT人間
 
-![image](https://user-images.githubusercontent.com/18649842/223357350-e8a50b2e-28a5-4c61-aca6-cbad5792b3a4.png)
+![Mika_Sprite](https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png)
 
-![image](https://user-images.githubusercontent.com/18649842/223357350-e8a50b2e-28a5-4c61-aca6-cbad5792b3a4.png)
+![Mika_Sprite](https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png)
 
-![image](https://user-images.githubusercontent.com/18649842/223357350-e8a50b2e-28a5-4c61-aca6-cbad5792b3a4.png)
+![Mika_Sprite](https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png)
 
 ## 環境設定
 
@@ -27,9 +27,8 @@ go mod tidy
 ```
 go run main.go 本田圭佑とじゃんけんをして勝つ方法
 ```
+![Mika_Sprite](https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png)
 
-![image](https://user-images.githubusercontent.com/18649842/223357350-e8a50b2e-28a5-4c61-aca6-cbad5792b3a4.png)
+![Mika_Sprite](https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png)
 
-![image](https://user-images.githubusercontent.com/18649842/223357350-e8a50b2e-28a5-4c61-aca6-cbad5792b3a4.png)
-
-![image](https://user-images.githubusercontent.com/18649842/223357350-e8a50b2e-28a5-4c61-aca6-cbad5792b3a4.png)
+![Mika_Sprite](https://user-images.githubusercontent.com/18649842/223380302-fba6fb13-13e5-437f-80fc-cb34f2e231ea.png)
