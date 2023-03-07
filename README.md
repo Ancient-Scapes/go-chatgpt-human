@@ -15,5 +15,9 @@ export API_KEY="xxxx"
 ## Usage
 
 ```
+go mod tidy
+```
+
+```
 go run main.go 本田圭佑とじゃんけんをして勝つ方法
 ```
